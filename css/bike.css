@@ -1,0 +1,33 @@
+body{
+    margin-top: -20px;
+    padding: -20px;
+}
+.carousel-item{
+    height: 100vh;
+    /*width: 190vh;*/
+    padding: 20px;
+}
+.carousel-item{
+    margin-right: auto;
+    margin-left: auto;
+}
+.carousel-caption h1 {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.title{
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: white;
+    font-size: 70px;
+}
+.btn {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
